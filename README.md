@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeliPauliina
 - 👀 I’m interested in programming and servers.
 - 🌱 I’m currently learning in LAB University of Applied Sciences. 
-- 📫 How to reach me, write me an email!  heli.palomaa@student.lab.fi
+- 📫 How to reach me, write me an email!  heli.palomaa@student.lab.fi or find me in <a href ="https://www.linkedin.com/in/heli-palomaa/">LinkedIn</a>
 
 <!---
 HeliPauliina/HeliPauliina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
