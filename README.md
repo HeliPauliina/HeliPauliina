@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HeliPauliina
 - 👀 I’m interested in programming and servers.
-- 🌱 I’m currently learning in LAB University of Applied Sciences. 
 - 📫 How to reach me, find me in <a href ="https://www.linkedin.com/in/heli-palomaa/" target="_blank">LinkedIn</a>
 
 <!---
